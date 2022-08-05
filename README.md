@@ -85,7 +85,7 @@ set -x
 # cd /path/to/install
 
 # clone this repository
-git clone https://github.com/lunardidev/pelias-docker.git && cd docker
+git clone https://github.com/lunardidev/pelias-docker.git && cd pelias-docker
 
 # install pelias script
 # this is the _only_ setup command that should require `sudo`
