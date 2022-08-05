@@ -46,7 +46,7 @@
       "leveldbpath": "/tmp",
       "datapath": "/data/openstreetmap",
       "import": [{
-        "filename": "sul-latest.osm.osm.pbf"
+        "filename": "sul-latest.osm.pbf"
       }]
     },
     "openaddresses": {
